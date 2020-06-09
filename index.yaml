@@ -8,5 +8,5 @@ entries:
     digest: 35a4e31bfacc496f1b1bce664652916bb8701cc9df77f1b90534f5234ff297a6
     name: mone-chart
     urls:
-    - https://github.com/lakshmanav/helmhub/blob/master/mone-0.1.0.tgz
+    - https://lakshmanav.github.io/helmhub/mone-0.1.0.tgz
     version: 0.1.0
